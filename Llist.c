@@ -56,6 +56,7 @@
         for (int i=1;i<=n;i++)
         {   printf(" %d ",ptr->data);  
             ptr=ptr->link;
+            NULL;
         }
     }
     int insertNodeAtHead(int n)
