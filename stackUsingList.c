@@ -67,7 +67,7 @@ int main()
 {
     int c,n,trigg=1;
     printf("Enter size of stack:\t");
-    
+    printf("lorem ");
     scanf("%d",&n);
     
     while(trigg)
