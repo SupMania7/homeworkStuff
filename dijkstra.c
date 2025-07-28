@@ -39,7 +39,7 @@
             }
             for (int i=0;i<n;i++)
                 {
-                    if(i!=start)
+                    if  (i!=start)
                         printf("distance of source to node %d is : %d\n",i,d[i]);
                         
                 }
